@@ -1,7 +1,7 @@
 # Introduction
 
-- Name - Sumit Kumar
-- Email - [s0k00singh@gmail.com](mailto:s0k00singh@gmail.com)
+- Name - Kunal Sugandhi
+- Email - [kunalsugandgu007@gmail.com](mailto:kunalsugandgu007@gmail.com)
 
 ## JS Practicals in React
 
